@@ -1,6 +1,6 @@
 # 🛍️ UK Online Retail Sales Analysis (2010–2011)
 
-This project analyzes transactional data from a UK-based online retail company to uncover customer behavior, identify valuable customer segments, and extract actionable insights that support business decision-making.
+***This project analyzes transactional data from a UK-based online retail company to uncover customer behavior, identify valuable customer segments, and extract actionable insights that support business decision-making.***
 
 ---
 
@@ -86,3 +86,27 @@ Customers were grouped into segments based on RFM scores to identify:
 
 ## 📁 Folder Structure
 
+├── data/ # Raw and cleaned data files (optional)<br>
+├── Final_project_sub.ipynb # Main analysis notebook<br>
+├── README.md
+
+
+
+---
+
+## 🚀 How to Run
+
+1. Open Jupyter Notebook
+2. Navigate to and open `Final_project_sub.ipynb`
+3. Run each cell in sequence
+
+Make sure required libraries are installed:
+```bash
+pip install pandas numpy matplotlib seaborn scikit-learn
+
+
+
+👤 Author
+Nguyễn Duy Linh<br>
+Email: linhnguyen.asia@gmail.com<br>
+Linkedin: https://www.linkedin.com/in/nguy%E1%BB%85n-duy-linh/
