@@ -94,17 +94,6 @@ Customers were grouped into segments based on RFM scores to identify:
 
 ---
 
-## 🚀 How to Run
-
-1. Open Jupyter Notebook
-2. Navigate to and open `Final_project_sub.ipynb`
-3. Run each cell in sequence
-
-Make sure required libraries are installed:
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn
-
-
 
 👤 Author
 Nguyễn Duy Linh<br>
