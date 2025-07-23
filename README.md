@@ -138,8 +138,8 @@ Feel free to use or modify it with credit.
 
 **Nguyễn Duy Linh**  
 📧 Email: linhnguyen.asia@gmail.com  
-🔗 LinkedIn: [Nguyễn Duy Linh](https://www.linkedin.com/in/nguy%E1%BB%85n-duy-linh/)  
-💻 GitHub: [AntoniNguyen123](https://github.com/AntoniNguyen123)
+🔗 LinkedIn: [Nguyễn Duy Linh](https://www.linkedin.com/in/duylinh-data/)  
+💻 GitHub: [DuyLinh-Data](https://github.com/DuyLinh-Data)
 
 ---
 
